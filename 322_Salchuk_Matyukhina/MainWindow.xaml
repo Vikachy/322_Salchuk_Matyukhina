@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <DatePicker HorizontalAlignment="Left" Margin="229,110,0,0" VerticalAlignment="Top"/>
+        <Calendar HorizontalAlignment="Left" Margin="497,0,0,0" VerticalAlignment="Center"/>
+
     </Grid>
 </Window>
